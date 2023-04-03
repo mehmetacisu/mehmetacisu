@@ -139,18 +139,3 @@ rel="noreferrer"
     />
   </a>
 </p>
-
-<p align="center">
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=mehmetacisu&show_icons=true&locale=en"
-    alt="mehmetacisu"
-  />
-</p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=mehmetacisu"
-      alt="mehmetacisu"
-  /></a>
-</p>
